@@ -92,3 +92,4 @@ Age and gender analysis provide insights into patient population trends.
 Patient satisfaction scores help evaluate the quality of care provided in the emergency room.
 
 ## Demo
+![Dashboard%20Preview](https://github.com/Sonika409/Hospital-Emergency-Room-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.JPG%20)
